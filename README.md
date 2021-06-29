@@ -6,3 +6,4 @@ C#에 대해서는 자세히 모르더라도 객체지향프로그래밍에 대�
 
 # Textbook
 - [Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations](http://book.naver.com/bookdb/book_detail.nhn?bid=16018330) by Kelvin Sung, Gregory Smith. December 2019, Apress, ISBN: 9781484254431
+  * [link to source code](https://github.com/Apress/basic-math-for-game-dev-w-unity3d)
